@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f47b2f7-d7ec-45c9-a0e7-fea89d251e5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/COSWAP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiDAR/Jefferson_Mid_Lidar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiDAR/Jefferson_Mid_Lidar_filtered.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCRIPTS/1_Lidar_to_CHM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCRIPTS/2_CHM_to_CC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCRIPTS/3_reproject_polygons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCRIPTS/4_zonal_stats.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wT9r38hKqXEtl1M0iAweJ2evQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.4_zonal_stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CHM_to_CC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lidar_CHM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lidar_COSWAP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lidar_focal_stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reproject_polygons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zonal_stats.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CFRI\Spatial_Heterogeneity\COSWAP\SCRIPTS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f47b2f7-d7ec-45c9-a0e7-fea89d251e5c" name="Changes" comment="" />
+      <created>1746054892244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746054892244</updated>
+      <workItem from="1746054893417" duration="1298000" />
+      <workItem from="1746056681775" duration="666000" />
+      <workItem from="1746057367622" duration="180000" />
+      <workItem from="1746072361867" duration="6342000" />
+      <workItem from="1746079427770" duration="9411000" />
+      <workItem from="1746126615672" duration="14454000" />
+      <workItem from="1746198807806" duration="7427000" />
+      <workItem from="1746552957024" duration="1879000" />
+      <workItem from="1747157212236" duration="1272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COSWAP$Lidar_focal_stats.coverage" NAME="Lidar_focal_stats Coverage Results" MODIFIED="1746163200545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$CHM_to_CC.coverage" NAME="CHM_to_CC Coverage Results" MODIFIED="1746163661025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$zonal_stats.coverage" NAME="zonal_stats Coverage Results" MODIFIED="1746166507403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$Lidar_COSWAP.coverage" NAME="Lidar_COSWAP Coverage Results" MODIFIED="1746080277643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$Reproject_polygons.coverage" NAME="Reproject_polygons Coverage Results" MODIFIED="1746163875696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$4_zonal_stats.coverage" NAME="4_zonal_stats Coverage Results" MODIFIED="1746210169659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+    <SUITE FILE_PATH="coverage/COSWAP$Lidar_CHM.coverage" NAME="Lidar_CHM Coverage Results" MODIFIED="1746126814843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LiDAR" />
+  </component>
+</project>
